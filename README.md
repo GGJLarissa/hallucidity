@@ -15,4 +15,4 @@ Developed for Global Game Jam 2020
 
 Hallucidity was designed with a dark, sci-fi setting in mind, inspired by the work of H.R. Giger and science fiction epics like the Alien trilogy.
 
-Narrators are encouraged to create a dim, unsettling environment that makes the players feel alarmed at all times, fighting for survival in grim conditions.
+Narrators are encouraged to create a dim, unsettling environment that makes the players feel alarmed at all times, struggling for survival in grim conditions.

@@ -8,7 +8,7 @@ Author: Aggeliki Tsameti <tsameti.92@gmail.com>
 
 The galaxy is at war. A large-scale malfunction has occured on the Astric Space Station. Remnants of a massive battle are still scattered all over its hangars and wounded soldiers, deformed and mutated by an unidentified pathogen, roam its corridors.
 
-A team of three specialized agents has been dispatched to the station, for a situation assessment. In an unfortunate series of events, they find themselves fighting for their lives.
+A team of three specialized agents has been dispatched to the station, for a situation assessment. In an unfortunate series of events, they find themselves running for their lives.
 
 Now, they must gather the parts necessary to repair their radio and request immediate extraction.
 

@@ -12,7 +12,7 @@ An event may or may not affect all characters, depending on its purpose in the n
 
 ## Event Resolution
 
-Resolving an event is different for each character and is based upon two deciding factors:
+Resolving an event is different for each character and is based upon two parameters:
 
 1. Their Endurance/Intellect scores and their current Hit/Sanity points
 2. Their ability to improvise and utilise their environment in a realistic and meaningful way, by performing actions
