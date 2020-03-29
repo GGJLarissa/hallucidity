@@ -26,8 +26,8 @@ Intellect expresses the character's mental capabilities and cognitive limits. It
 
 * Ability score: **max(3d6, 6)**
 * Ability modifier: **-1 (1-6), 0 (7-12), +1 (12-18)**
-* Hit points: **max(4d6 + Endurance Modifier * 1d6)**
-* Sanity points: **max(4d6 + Intellect Modifier * 1d6)**
+* Hit points: **max(4d6 + Endurance Modifier * 1d6, 8)**
+* Sanity points: **max(4d6 + Intellect Modifier * 1d6, 8)**
 
 ### Dealing with physical and mental strain
 
